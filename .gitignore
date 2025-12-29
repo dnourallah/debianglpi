@@ -1,0 +1,15 @@
+/tmp/
+/teste/
+/.idea/
+/.vscode/
+#Cache folder
+/.alcache/
+#Symbols folder
+/.alpackages/
+#Snapshots folder
+/.snapshots/
+#Testing Output folder
+/.output/
+#Test results file
+TestResults.xml
+#/scripts/configs/config_dev.sh

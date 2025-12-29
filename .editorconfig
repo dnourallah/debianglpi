@@ -1,0 +1,75 @@
+root = true
+
+[*]
+ij_continuation_indent_size = 8
+# ij_formatter_off_tag = @formatter:off
+# ij_formatter_on_tag = @formatter:on
+# ij_formatter_tags_enabled = true
+# ij_smart_tabs = false
+# ij_visual_guides = 
+# ij_wrap_on_typing = false
+
+[{*.bash,*.bats,*.dash,*.ksh,*.mksh,*.sh,.bash_aliases,.bash_logout,.bash_profile,.bashrc,.profile}]
+ij_continuation_indent_size = 2
+# ij_shell_before_if_condition_terminator = false
+# ij_shell_binary_ops_start_line = false
+# ij_shell_blank_lines_around_method = 0
+# ij_shell_block_linefeed_after_lbrace = true
+# ij_shell_block_linefeed_before_rbrace = true
+# ij_shell_command_linefeed_after_semicolon = false
+# ij_shell_command_list_wrap = 1
+# ij_shell_command_space_after_semicolon = true
+# ij_shell_command_space_before_semicolon = false
+# ij_shell_comment_add_space_on_reformat = false
+# ij_shell_for_space_before_list_terminator = false
+# ij_shell_function_brace_newline = false
+# ij_shell_keep_blank_lines_before_right_brace = 2
+# ij_shell_keep_blank_lines_in_code = 1
+# ij_shell_keep_column_alignment_padding = false
+# ij_shell_keep_first_column_comment = true
+# ij_shell_keep_line_breaks = true
+# ij_shell_keep_single_line_command_list = true
+# ij_shell_keep_single_line_compound_command = true
+# ij_shell_keep_single_line_nested = true
+# ij_shell_keep_trailing_semicolon = false
+# ij_shell_line_comment_add_space = false
+# ij_shell_line_comment_add_space_on_reformat = false
+# ij_shell_line_comment_at_first_column = true
+# ij_shell_linefeed_after_elif = false
+# ij_shell_linefeed_after_else = true
+# ij_shell_linefeed_after_if = false
+# ij_shell_linefeed_after_then = true
+# ij_shell_linefeed_before_do = false
+# ij_shell_linefeed_before_elif = true
+# ij_shell_linefeed_before_else = true
+# ij_shell_linefeed_before_fi = true
+# ij_shell_linefeed_before_then = false
+# ij_shell_minify_program = false
+# ij_shell_pipeline_wrap = 1
+# ij_shell_redirect_followed_by_space = false
+# ij_shell_simple_command_wrap = 0
+# ij_shell_simplify_code = false
+# ij_shell_space_within_function_parentheses = false
+# ij_shell_string_multiline_indent = true
+# ij_shell_switch_cases_indented = false
+# ij_shell_unix_line_feeds = true
+# ij_shell_use_google_code_style = false
+# ij_shell_wrap_long_lines = false
+
+[{*.markdown,*.md}]
+ij_markdown_force_one_space_after_blockquote_symbol = true
+ij_markdown_force_one_space_after_header_symbol = true
+ij_markdown_force_one_space_after_list_bullet = true
+ij_markdown_force_one_space_between_words = true
+ij_markdown_format_tables = true
+ij_markdown_insert_quote_arrows_on_wrap = true
+# ij_markdown_keep_indents_on_empty_lines = false
+# ij_markdown_keep_line_breaks_inside_text_blocks = true
+# ij_markdown_max_lines_around_block_elements = 1
+# ij_markdown_max_lines_around_header = 1
+# ij_markdown_max_lines_between_paragraphs = 1
+# ij_markdown_min_lines_around_block_elements = 1
+# ij_markdown_min_lines_around_header = 1
+# ij_markdown_min_lines_between_paragraphs = 1
+# ij_markdown_wrap_text_if_long = true
+# ij_markdown_wrap_text_inside_blockquotes = true
